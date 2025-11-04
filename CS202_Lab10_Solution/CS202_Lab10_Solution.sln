@@ -5,6 +5,8 @@ VisualStudioVersion = 17.14.36623.8 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabActivity_1_Lifecycle", "LabActivity_1_Lifecycle\LabActivity_1_Lifecycle.csproj", "{2833D8A8-44ED-40E7-A9A1-BD5391B9A7CE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabActivity_2_Inheritance", "LabActivity_2_Inheritance\LabActivity_2_Inheritance.csproj", "{CA52896C-81D3-49DB-A59B-A96414FDEE13}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{2833D8A8-44ED-40E7-A9A1-BD5391B9A7CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2833D8A8-44ED-40E7-A9A1-BD5391B9A7CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2833D8A8-44ED-40E7-A9A1-BD5391B9A7CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA52896C-81D3-49DB-A59B-A96414FDEE13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA52896C-81D3-49DB-A59B-A96414FDEE13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA52896C-81D3-49DB-A59B-A96414FDEE13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA52896C-81D3-49DB-A59B-A96414FDEE13}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
